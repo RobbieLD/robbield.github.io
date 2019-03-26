@@ -143,13 +143,13 @@
         "repos": ["RaspberryEye", "github-portfolio", "Quizzy.js"]
     },
     {
-        "title": "Node.JS",
-        "class": "is-danger",
-        "repos": ["Quizzy","RaspberryEye"]
-    },
-    {
         "title": "Umbraco",
         "class": "is-link",
         "repos": [ "FontAwesomeIconFinder"]
+    },
+    {
+        "title": "Node.JS",
+        "class": "is-success",
+        "repos": ["Quizzy","RaspberryEye"]
     }]
 }

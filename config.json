@@ -115,6 +115,11 @@
                 "title": "Adobe CC",
                 "sizeClass": "is-large",
                 "type": "hobby"
+            },
+            {
+                "title": "ASP.Net",
+                "sizeClass": "is-large",
+                "type": "skill"
             }
         ]
     },

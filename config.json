@@ -151,5 +151,10 @@
         "title": "Node.JS",
         "class": "is-success",
         "repos": ["Quizzy","RaspberryEye"]
+    },
+    {
+        "title": "TypeScript",
+        "class": "is-danger",
+        "repos": ["github-portfolio"]
     }]
 }

@@ -135,6 +135,10 @@
         {
             "service": "flickr",
             "url": "https://www.flickr.com/photos/robbield/albums"
+        },
+        {
+            "service": "envelope",
+            "url": "mailto:bfe5e925@opayq.com"
         }
     ],
     "sections": [{

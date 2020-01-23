@@ -152,6 +152,11 @@
         "repos": ["RaspberryEye", "github-portfolio", "Quizzy.js"]
     },
     {
+        "title": "Chrome",
+        "class": "is-primary",
+        "repos": ["StartPage"]
+    },
+    {
         "title": "Umbraco",
         "class": "is-link",
         "repos": [ "FontAwesomeIconFinder"]

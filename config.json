@@ -120,6 +120,26 @@
                 "title": "ASP.Net",
                 "sizeClass": "is-large",
                 "type": "skill"
+            },
+            {
+                "title": "Angular",
+                "sizeClass": "is-large",
+                "type": "skill"
+            },
+            {
+                "title": "Home Assistant",
+                "sizeClass": "is-large",
+                "type": "hobby"
+            },
+            {
+                "title": "ESP Home",
+                "sizeClass": "is-medium",
+                "type": "hobby"
+            },
+            {
+                "title": "Docker",
+                "sizeClass": "is-small",
+                "type": "skill"
             }
         ]
     },
@@ -170,5 +190,10 @@
         "title": "TypeScript",
         "class": "is-danger",
         "repos": ["github-portfolio"]
+    },
+    {
+        "title": "C++",
+        "class": "is-warning",
+        "repos": ["esphomeirremote"]
     }]
 }

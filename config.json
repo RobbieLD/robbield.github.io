@@ -35,6 +35,21 @@
 
             },
             {
+                "title": "Azure Devops",
+                "sizeClass": "is-medium",
+                "type": "skill"
+            },
+            {
+                "title": "Kubernetes",
+                "sizeClass": "is-small",
+                "type": "skill"
+            },
+            {
+                "title": "Docker",
+                "sizeClass": "is-small",
+                "type": "skill"
+            },
+            {
                 "title": "Vue.JS",
                 "sizeClass": "is-large",
                 "type": "skill"
@@ -149,10 +164,6 @@
             "url": "https://stackoverflow.com/users/770478/monk?tab=profile"
         },
         {
-            "service": "500px",
-            "url": "https://500px.com/robertlyndondavis/galleries"
-        },
-        {
             "service": "flickr",
             "url": "https://www.flickr.com/photos/robbield/albums"
         },
@@ -164,12 +175,12 @@
     "sections": [{
         "title": "C#",
         "class": "is-warning",
-        "repos": ["MailMinion", "patterns"]
+        "repos": ["MailMinion", "patterns", "unsplash-wallpaper", "hephaestus"]
     },
     {
         "title": "Vue.JS",
         "class": "is-info",
-        "repos": ["RaspberryEye", "github-portfolio", "Quizzy.js"]
+        "repos": ["RaspberryEye", "github-portfolio", "Quizzy.js", "chronicle"]
     },
     {
         "title": "Chrome",
@@ -184,16 +195,16 @@
     {
         "title": "Node.JS",
         "class": "is-success",
-        "repos": ["Quizzy","RaspberryEye"]
+        "repos": ["Quizzy","RaspberryEye", "monty_hall", "nibble-coin", "hangouts-parser"]
     },
     {
         "title": "TypeScript",
         "class": "is-danger",
-        "repos": ["github-portfolio"]
+        "repos": ["github-portfolio", "chat"]
     },
     {
-        "title": "C++",
+        "title": "Other",
         "class": "is-warning",
-        "repos": ["esphomeirremote"]
+        "repos": ["esphomeirremote", "k9slogdump", "honeywell2mqtt"]
     }]
 }

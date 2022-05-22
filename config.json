@@ -41,7 +41,7 @@
             },
             {
                 "title": "Kubernetes",
-                "sizeClass": "is-small",
+                "sizeClass": "is-medium",
                 "type": "skill"
             },
             {
@@ -175,7 +175,7 @@
     "sections": [{
         "title": "C#",
         "class": "is-warning",
-        "repos": ["MailMinion", "patterns", "unsplash-wallpaper", "hephaestus"]
+        "repos": ["StravaUploader", "MailMinion", "patterns", "unsplash-wallpaper", "hephaestus"]
     },
     {
         "title": "Vue.JS",
